@@ -9,4 +9,6 @@ html {
 body{
     font-family: 'Montserrat', sans-serif;
     padding: 0 10px;
+    background-image: url(../images/currency.jpg);
+    background-size: cover;
 }
